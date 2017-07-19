@@ -75,7 +75,7 @@ $newArr[] = json_decode($output, true);
     echo '<nav class="navbar navbar-toggleable-md navbar-inverse bg-primary">
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
 </button>
-  <div class="collapse navbar-collapse" id="navbarColor01">Created by Chris Zitting. Walmart Price Search, using Walmart OpenAPI. All rights reserved. &copy 2017</div>';
+  <div class="collapse navbar-collapse text-muted" id="navbarColor01">Created by Chris Zitting, using Walmart OpenAPI. All rights reserved. &copy 2017</div>';
     
 //print_r($newArr[0]);
 
