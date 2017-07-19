@@ -1,0 +1,16 @@
+ul
+{
+    list-style:circle;
+}
+
+.desc ul
+{
+  height:150px;
+  overflow-y: scroll;
+}
+
+.card .card-outline-success
+{
+    border:none;
+    border-radius:none;
+}
